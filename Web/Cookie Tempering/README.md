@@ -1,6 +1,6 @@
 # Cookie Tempering
 
-### 취약점 설명
+### 공격 설명
 
 Cookie Tempering 즉, 쿠키 변조는 클라이언트 측에서 쿠키를 변조하는 공격입니다.
 쿠키는 HTTP의 Connectionless를 해결할 뿐이며, 검증 등의 보안이 없기 때문에 안전을 보장하지 않는다.
